@@ -1,6 +1,4 @@
-/**
- * Created by Thodoris on 20-Dec-15.
- */
+
 public class Main {
 
 
